@@ -81,7 +81,7 @@ O projeto foi dividido em 3 partes principais:
 ## Definições Regulares
 
 ```txt
-ESPACO: [ \n\r\t]+
+ESPACO: [\ \n\r\t]+
 ```
 
 ---
