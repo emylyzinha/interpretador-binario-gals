@@ -21,10 +21,10 @@ A linguagem trabalha apenas com:
 # Exemplo da Linguagem
 
 ```txt
-A=10;
-B=11;
-B=111+A*B;
-Show(B);
+A = 10;
+B = 11;
+B = 111 + A * B;
+Show( B );
 ```
 
 Saída esperada:
